@@ -26,11 +26,11 @@ Technologies Used
 
 Project Structure 
 
-
-FoodCalorieTracker/
-├── main.py 
-├── test_main.py 
-└── meals.json
+     FoodCalorieTracker/
+     │
+     ├── main.py
+     ├── test_main.py
+     └── meals.json
 
 How to Run
 
