@@ -1,19 +1,16 @@
 FOOD CALORIE TRACKER
 
 Application Description
-
      The Food Calorie Tracker is a desktop application that helps users monitor their daily food intake and calorie consumption. Users can log meals, automatically calculate calories, view their daily meal records, track total calories consumed, and save data for future use through persistent storage.
 
 The Application Allows Users To:
-
      Log meals and food items.
-Automatically calculate calorie intake.
-View daily meal records.
-Calculate total calories consumed per day.
-Save and load meal data using persistent storage.
+     Automatically calculate calorie intake.
+     View daily meal records.
+     Calculate total calories consumed per day.
+     Save and load meal data using persistent storage.
 
 OOP Concepts Used
-
      Class – Used to represent meal records and application components.
      Objects – Created from classes to manage meal data.
      Encapsulation – Data and methods are grouped within classes.
