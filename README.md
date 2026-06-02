@@ -14,17 +14,17 @@ Save and load meal data using persistent storage.
 
 OOP Concepts Used
 
-Class – Used to represent meal records and application components.
-Objects – Created from classes to manage meal data.
-Encapsulation – Data and methods are grouped within classes.
-Inheritance – Allows code reusability and extension of classes.
-Polymorphism – Enables methods to perform different functions when needed.
+  Class – Used to represent meal records and application components.
+  Objects – Created from classes to manage meal data.
+  Encapsulation – Data and methods are grouped within classes.
+  Inheritance – Allows code reusability and extension of classes.
+  Polymorphism – Enables methods to perform different functions when needed.
 
 Technologies Used
-Python– Main programming language.
-Tkinter– Graphical User Interface (GUI) framework.
-JSON – Data storage format for saving meal records.
-Pytest– Automated testing framework.
+  Python– Main programming language.
+  Tkinter– Graphical User Interface (GUI) framework.
+  JSON – Data storage format for saving meal records.
+  Pytest– Automated testing framework.
 
 Project Structure 
 
@@ -38,32 +38,32 @@ How to Run
 
        1. Requirements Python 3.x
        2. Clone this repository
-            git clone 
+            git clone (https://github.com/madelyngueta/FOOD_CALORIE_TRACKER)
 
 
 Navigate to the Project Folder
 
-cd FoodCalorieTracker
+  cd FoodCalorieTracker
 
 Run the Application:
 
-python main.py
+  python main.py
 
 
 Running Tests
 
-To run automated tests using Pytest:
+  To run automated tests using Pytest:
 
-pytest
+   pytest
 
-Or:
+     Or:
 
-pytest -m pytest -v
+   pytest -m pytest -v
 
 
 Export Report
 
-The application can generate and display meal records and calorie summaries. Users can export or save reports based on the stored meal data for documentation and tracking purposes.
+  The application can generate and display meal records and calorie summaries. Users can export or save reports based on the stored meal data for documentation and tracking purposes.
 
 Author
 
@@ -75,8 +75,8 @@ Developed as a school project by:
 In Partial Fulfillment of the Requirements for the Subject CC103 Computer Programming 2 Under the Course of Bachelor of Science in Information Technology at Sorsogon State University Bulan Campus. With the Supervision of our Professor John Mark Gabrentina.
 
 Notes
-• Basic input validation only (strip() checks)
-• Focus is on OOP structure, not advanced error handling
-• Designed for educational purposes
+  • Basic input validation only (strip() checks)
+  • Focus is on OOP structure, not advanced error handling
+  • Designed for educational purposes
 
 
