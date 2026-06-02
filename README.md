@@ -11,6 +11,7 @@ The Application Allows Users To:
      Save and load meal data using persistent storage.
 
 OOP Concepts Used
+
      Class – Used to represent meal records and application components.
      Objects – Created from classes to manage meal data.
      Encapsulation – Data and methods are grouped within classes.
