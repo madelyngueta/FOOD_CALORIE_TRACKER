@@ -47,12 +47,14 @@ Navigate to the Project Folder
 
 Run the Application:
 
+
   python main.py
 
 
 Running Tests
 
   To run automated tests using Pytest:
+
 
    pytest
 
@@ -70,14 +72,13 @@ Author
 Developed as a school project by:
 
     • Madelyn G. Gueta (https://github.com/madelyngueta)
-
     • Mar P. Grantos (https://github.com/margrantos591-tech)
-
     • Alvin G. Gipit (https://github.com/gipitalvin07-dot)
 
 In Partial Fulfillment of the Requirements for the Subject CC103 Computer Programming 2 Under the Course of Bachelor of Science in Information Technology at Sorsogon State University Bulan Campus. With the Supervision of our Professor John Mark Gabrentina.
 
 Notes
+
   • Basic input validation only (strip() checks)
 
   • Focus is on OOP structure, not advanced error handling
