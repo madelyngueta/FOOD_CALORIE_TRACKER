@@ -28,6 +28,7 @@ Project Structure
 
 
 FoodCalorieTracker/
+
 │
 ├── main.py
 ├── test_main.py
